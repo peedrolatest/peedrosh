@@ -14,5 +14,5 @@
 - 📫 How to reach me
 ...I'm on:
     - [Instagram](https://www.instagram.com/peedro.js/)
-    - [Github](https://github.com/peedrojs/)
+    - [Github](https://github.com/peedrosh/)
     - [Linkedin](https://www.linkedin.com/in/peedrojs/)
